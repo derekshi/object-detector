@@ -63,3 +63,5 @@ data/features
 # gedit crap
 *~
 *.swp
+**/*.jpg
+**/*.png
